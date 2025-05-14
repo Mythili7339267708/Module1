@@ -34,4 +34,4 @@ print("d:",d)
 
 ## Result
 
-Thus,the PPython program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
+Thus,the Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
